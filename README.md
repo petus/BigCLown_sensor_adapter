@@ -1,4 +1,4 @@
-# BigClown_sensor_adapter v0.1 (development phase)</br>
+# BigClown_sensor_adapter v0.2 (development phase)</br>
 Sensor adapter for BigClown IoT platform</br>
 </br>
 This adapter is used like bridge between BigClown Core module and chinese sensors</br>
