@@ -1,3 +1,17 @@
+/*
+*
+*   Sensor adapter - Si7021 example code (temperature)
+*
+*   This example code demonstrates the settings and communication 
+*   with temperature and humidity sensor Si7021 and 
+*   popular IoT platform called BigClown.
+*
+*   Created by Petus (2018)
+*   www.chiptron.cz
+*   www.time4ee.com
+*
+*/
+
 #include <application.h>
 
 // LED instance
