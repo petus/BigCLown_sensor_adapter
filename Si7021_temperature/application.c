@@ -38,7 +38,7 @@ void application_task(void)
 {
     uint8_t rx_buffer[2] = {0x00};
     float temperature = 0x00;
-    char str[50] = {0x00};
+    uint8_t str[50] = {0x00};
 
     // Toggle LED
     bc_led_set_mode(&led, BC_LED_MODE_TOGGLE);
