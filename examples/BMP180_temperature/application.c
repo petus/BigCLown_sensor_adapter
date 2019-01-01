@@ -1,6 +1,6 @@
 /*
 *
-*   Sensor adapter - BMPP180 example code (temperature)
+*   Sensor adapter - BMP180 example code (temperature)
 *
 *   This example code demonstrates the settings and communication 
 *   with temperature and pressure sensor BMP180 (0x77) and 
