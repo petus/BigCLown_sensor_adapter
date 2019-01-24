@@ -5,4 +5,4 @@ This adapter is used like bridge between BigClown Core module and chinese sensor
 </br>
 More info: </br>
 www.chiptron.cz (czech language) https://chiptron.cz/articles.php?article_id=194</br>
-www.time4ee.com (english language)</br>
+www.time4ee.com (english language) https://time4ee.com/articles.php?article_id=119</br>
