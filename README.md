@@ -7,4 +7,3 @@ More info: </br>
 www.chiptron.cz (czech language) https://chiptron.cz/articles.php?article_id=194</br>
 www.time4ee.com (english language) https://time4ee.com/articles.php?article_id=119</br>
 <br>
-The module is available on https://www.tindie.com/products/chiptron/sensor-adapter-v03-for-bigclown-bare-pcb/
